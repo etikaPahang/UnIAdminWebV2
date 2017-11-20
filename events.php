@@ -13,7 +13,12 @@ body
    background-size: 100% 100%;
 }
 </style>
-<div class="form-check">
+
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+
+</head>
+<body>
+	<div class="form-check">
 	<label class="form-check-label">
 		<input class="form-check-input" type="checkbox" value="">
 		Select All
@@ -302,4 +307,5 @@ body
 		 Conversation 6
 	</label>
 	</div>
-</head>
+</body>
+</html>
