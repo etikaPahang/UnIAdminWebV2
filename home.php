@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Data Base UnI English Course</title>
+<title>Home</title>
 <style type="text/css">
 
 body 
@@ -16,8 +16,7 @@ body
     
     .gambar{margin-top: 50px}
     
-    
-
+  
 </style>
 </head>
 <body>

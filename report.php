@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Events</title>
+<title>Report</title>
 <style type="text/css">
 body 
 {
@@ -11,10 +11,7 @@ body
    -o-background-size: 100% 100%;
    background-size: 100% 100%;
 }
-
 </style>
-<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-<!--
 <div class="form-check">
 	<label class="form-check-label">
 		<input class="form-check-input" type="checkbox" value="">
@@ -304,27 +301,4 @@ body
 		 Conversation 6
 	</label>
 	</div>
-	-->
 </head>
-<body>
-<div style="padding: 50px;">
-	<form>
-	 <div class="form-group">
-    <label for="exampleFormControlInput1">Event Name</label>
-    <input type="text" class="form-control" placeholder="Event Name">
-  </div>
-   <div class="form-group">
-    <label for="exampleFormControlInput1">Event Date</label>
-    <input type="text" class="form-control" placeholder="Event Date">
-  </div>
-    <div class="form-group">
-    <label for="exampleFormControlTextarea1">Event Description</label>
-    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Event Description"></textarea>
-
-  </div>
-		 <button type="submit" class="btn btn-primary">Submit</button>
-
-</form>
-</div>
-
-	</body>
