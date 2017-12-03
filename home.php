@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Data Base UnI English Course</title>
+<title>Home</title>
 <style type="text/css">
     
 
@@ -14,7 +14,6 @@ body
    -o-background-size: 100% 100%;
    background-size: 100% 100%;
 }
-   
 </style>
 <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 </head>
