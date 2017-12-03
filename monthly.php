@@ -1,13 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>
-		FORM MONTHLY 
-	</title>
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+<title>Data Base UnI English Course</title>
+<style type="text/css">
+
+body 
+{
+    background: url(web.png) no-repeat fixed;
+   -webkit-background-size: 100% 100%;
+   -moz-background-size: 100% 100%;
+   -o-background-size: 100% 100%;
+   background-size: 100% 100%;
+}
+    
+  
+</style>
 </head>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+
 <body style="padding-top: 50px; padding-bottom: 50px;">
-	
+	   <h1 class="reports" style="margin-left: 30; margin-top: -4%">Monthly Challanges</h1>
 	<div class="container">
 		<form role="form" action="monthly.php" method="POST">
 		  <div class="form-group">
@@ -59,7 +71,7 @@
 			<label for="formGroupExampleInput10">Question 10</label>
 			<input type="text" class="form-control" id="formGroupExampleInput10" placeholder="Input question here">
 		  </div>
-		  <button type="button" class="btn btn-primary">Submit Monthly Challenge</button>
+		  <button type="button" class="btn btn-primary" style="margin-left:75%">Submit Monthly Challenge</button>
 		</form>
 	</div>
 	
